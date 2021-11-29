@@ -2,7 +2,7 @@
 
 Site utilizando JavaScript. Tabuada de multiplicação.
 
-[Link do Site](https://vanderson01.github.io/JSHoraDoDia/)
+[Link do Site](https://vanderson01.github.io/JSTabuada/)
 
 ## 🚀 Projeto
 
